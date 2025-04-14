@@ -65,7 +65,7 @@ if __name__ == "__main__":
     
     # mydepenbency
     pkg_name = "mydepenbency"
-    versions = ["v1.0.1"]
+    versions = ["v1.0.2"]
     short_desc = 'A public github-hosted repo.'
     homepage = 'https://github.com/e0732951/mydepenbency'
     execute_main(pkg_name, versions, short_desc, homepage)
